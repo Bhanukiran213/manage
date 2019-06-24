@@ -1,0 +1,184 @@
+#arrowright{
+    padding-left:240px;
+    line-height: 60px;
+  }
+  #iconhe{
+    height:30px;
+    
+  }
+  
+  #simple-menu{
+   margin-top:55px;
+  }
+  .logo{
+    width:100%;
+    height:50px;
+  }
+  #boring{
+    float: right;
+    width:50px;
+    margin-right:10px;
+    font-size:20px;
+   
+  }
+  .dropdown{
+    margin-top:50px;
+    margin-right:40px;
+  }
+  #titlehender{
+    margin-top:60px;
+    height:40px;
+    background:white;
+  }
+  
+  #tabwid{
+    width:10px;
+    border:1px solid #eee;
+  }
+  #seriid{
+    width:0px;
+    border-right:1px solid red;
+  }
+  
+  #seriid_w{
+    width:100px;
+    border-right:1px solid #eee;
+  }
+  
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th {
+    border: 1px solid #f7f7f7;
+    
+    padding: 2px;
+  }
+  td{
+    border:1px solid #f2f2f2;
+    
+  }
+  
+  thead{
+    color: aliceblue;
+  }
+  
+  .paginatinside{
+    float:right;
+    border:0px;
+   
+  }
+  
+  #input-with-icon-grid{
+    width:500px;
+  }
+  #logo{
+    background-size:80px 80px;
+  }
+  image{
+    width:20px;
+    height:20px;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  .logo{
+    width:100px;
+    height:30px;
+    float:left;
+  }
+
+  #important{
+    color:red;
+  }
+  .decoration{
+    text-decoration: none;
+    color:#c3c3c3;
+  }
+
+  #text{
+    color:red;
+    margin-left:-22px;
+    font-size:12px;
+  }
+  #text_{
+    
+    margin-left:-19px;
+    font-size:12px;
+  }
+  #text__ {
+   
+    margin-left:-22px;
+   
+   
+  }
+  #text_new{
+    
+    margin-left:-18px;
+    font-size:10px;
+  }
+  span{
+   
+    
+    font-family: 'Roboto',sans-serif;
+    
+    font-size: 11px;
+    
+    font-weight: 500;
+    -webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+    letter-spacing: normal;
+    
+    line-height: 16px;
+  }
+#dashboadrd{
+  width:30px;
+  margin-left:-15px;
+  font-size:15px;
+  height:30px;
+}
+ footer{
+   min-height:500px,
+ }
+
+#header{
+  box-shadow: 0px 0px 0px 0px;
+}
+ #link {
+   text-decoration:hidden;
+ }
+ .mew{
+   color:#c3c3c3;
+   font-size:13px;
+   padding-left:20px;margin-top:-5px;
+   font-family: Ubuntu;
+   text-decoration: none;
+ }
+footer{
+  position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #f3f3f3;
+   color: black;
+   text-align: center;
+}
+ 
+#imall-cions{
+  height:200px;
+  width:200px;
+  background:red;
+}
+
+@media screen and (max-width: 48px) {
+  #imall-cions{
+    height:100px;
+    width:100px;
+    background:green
+  }
+  
+}

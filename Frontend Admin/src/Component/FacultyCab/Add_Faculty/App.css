@@ -1,0 +1,109 @@
+
+    
+    .tablecell{
+        background: #262f3d;
+      
+    }
+
+
+#btnchip
+{background: #7cbb42;
+    text-transform: capitalize;
+    font-family:'Ubuntu';
+    color: #fff;
+    font-size: 12px;
+ cursor: pointer;
+  width: 130px;
+  height: 30px;
+ border:1px solid #bfbfbf57;
+margin-bottom: 15px;
+position: relative;
+}
+
+
+#btnchip:hover
+{
+ 
+    text-transform: capitalize;
+  width: 130px;
+  height: 30px;
+ 
+  color: #fff;
+  text-align: center;
+  background: #87d045;
+  
+  
+}
+
+
+
+#btnchip_cancel
+{background: #19212b;
+    text-transform: capitalize;
+    font-family:'Ubuntu';
+    color: #fff;
+    font-size: 12px;
+ cursor: pointer;
+  width: 130px;
+  height: 30px;
+
+ border:1px solid #bfbfbf57;
+margin-top:8px;
+position: relative;
+}
+
+#btnchip_cancel:hover
+{
+ 
+    text-transform: capitalize;
+  width: 130px;
+  height: 30px;
+ 
+  color: #fff;
+  text-align: center;
+  background:#44474c;
+  
+  
+}
+
+
+
+    #idnew{
+        font-family:ubuntu;
+        font-size:14px ;
+       border-radius: 0px;
+      
+       
+height:45px;
+padding:0px 10px;
+    }
+
+    #idnew_{
+        border:0px;
+       
+       }
+
+      .breadcrumb{
+    
+      padding:0px 10px;
+        
+    }
+
+     .breadcrumb-item {
+         font-size:14px;
+         cursor: pointer;
+         font-family:ubuntu;
+     }
+
+     .TextField-without-border-radius fieldset { border-radius: 0; 
+    width:390px;
+    font-size: 8px;
+    
+    }
+
+    #pagination{
+        font-family:ubuntu;
+      
+    }
+
+ 

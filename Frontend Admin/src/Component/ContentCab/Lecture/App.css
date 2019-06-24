@@ -1,0 +1,44 @@
+
+#btn_chip
+{background: #7cbb42;
+    text-transform: capitalize;
+    font-family:'Ubuntu';
+    color: #fff;
+    font-size: 14px;
+ cursor: pointer;
+  width: 180px;
+  height: 30px;
+ border:1px solid #bfbfbf57;
+margin-bottom: 15px;
+position: relative;
+border-radius: 0px;
+text-align: center;
+}
+
+
+#btn_chip:hover
+{
+ 
+    text-transform: capitalize;
+  width: 180px;
+  height: 30px;
+ 
+  color: #fff;
+  text-align: center;
+  background: #87d045;
+  
+  
+}
+
+#chips_wrapper{
+  width:auto;
+  height:30px;
+  background: #fafafa;
+}
+
+
+.TextField-without-new-lecture-border-radius fieldset { border-radius: 0; 
+ 
+  font-size: 8px;
+  
+  }

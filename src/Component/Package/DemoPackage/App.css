@@ -1,0 +1,38 @@
+#btn_chip_play_
+{background: #7cbb42;
+    text-transform: capitalize;
+    font-family:'Ubuntu';
+    color: #fff;
+    font-size: 14px;
+ cursor: pointer;
+  width: 150px;position: relative;
+  height: 37px;
+ border:1px solid #bfbfbf57;
+margin-bottom: 15px;
+position: relative;
+border-radius: 0px;
+
+margin-top:22px;
+text-align: center;
+}
+
+
+#btn_chip_play_:hover
+{
+ 
+    text-transform: capitalize;
+  width: 150px;
+  height: 37px;
+ 
+  color: #fff;
+  text-align: center;
+  background: #87d045;
+  
+  
+}
+.TextField-without-border-radius fieldset { border-radius: 0; 
+ padding:1px;
+  font-size: 8px;
+  height:50px;
+  }
+

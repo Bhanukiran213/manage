@@ -1,0 +1,30 @@
+
+
+#_btnchip
+{background: #7cbb42;
+    text-transform: capitalize;
+    font-family:'Ubuntu';
+    color: #fff;
+    font-size: 12px;
+ cursor: pointer;
+  width: 150px;
+  height: 30px;
+ border:1px solid #bfbfbf57;
+margin-bottom: 15px;
+position: relative;
+}
+
+
+#_btnchip:hover
+{
+ 
+    text-transform: capitalize;
+  width: 150px;
+  height: 30px;
+ 
+  color: #fff;
+  text-align: center;
+  background: #87d045;
+  
+  
+}

@@ -1,0 +1,115 @@
+
+#btnchip
+{background: #7cbb42;
+    text-transform: capitalize;
+    font-family:'Ubuntu';
+    color: #fff;
+    font-size: 14px;
+ cursor: pointer;
+  width: 150px;
+  height: 30px;
+ border:1px solid #bfbfbf57;
+margin-bottom: 15px;
+position: relative;
+border-radius: 0px;
+text-align: center;
+}
+
+
+#btnchip:hover
+{
+ 
+    text-transform: capitalize;
+  width: 150px;
+  height: 30px;
+ 
+  color: #fff;
+  text-align: center;
+  background: #87d045;
+  
+  
+}
+
+#appbar{
+border:1px solid #bfbfbf57;
+width: 100%;
+background: #fff;
+font-family: ubuntu;
+margin-top:5px;
+
+}
+
+#tabcontainer{
+  
+    padding:0px;
+}
+#cancel_btn{
+    widows: 25px;
+    height:25px;
+    background:red;
+    border:0;
+    float:right;
+    color:white;
+  
+    
+   
+   
+}
+#cancel_btn:hover{
+   
+    background:rgb(145, 26, 26);;
+    border:0;
+    float:right;
+    color:white;
+
+    cursor: pointer;
+}
+#tabs-react{
+    margin-top:30px;
+}
+#wrapper{
+    
+    overflow-y:auto;
+    height:82vh;
+    padding-left:10px;
+}
+
+#btnchip_submit
+{background: #7cbb42;
+    text-transform: capitalize;
+    font-family:'Ubuntu';
+    color: #fff;
+    font-size: 14px;
+ cursor: pointer;
+  width: 150px;
+  height: 30px;
+ border:1px solid #bfbfbf57;
+
+position: relative;
+border-radius: 0px;
+text-align: center;
+float:right;
+margin-right:40px;
+margin-top:20px;
+}
+
+
+#btnchip_submit:hover
+{
+ 
+    text-transform: capitalize;
+  width: 150px;
+  height: 30px;
+ 
+  color: #fff;
+  text-align: center;
+  background: #87d045;
+  
+  
+}
+
+.TextField-without-border-radius fieldset { border-radius: 0; 
+    width:390px;
+    font-size: 8px;
+    
+    }
