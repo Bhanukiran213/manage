@@ -8,7 +8,7 @@
 		"@tinymce/tinymce-react": "^3.0.1",
 		"add-zero": "^1.0.0",
 		"aws-sdk": "^2.392.0",
-		"axios": "^0.18.0",
+		"axios": "^0.21.1",
 		"bcryptjs": "^2.4.3",
 		"body-parser": "^1.18.3",
 		"busboy-body-parser": "^0.3.2",
